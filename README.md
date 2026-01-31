@@ -9,5 +9,5 @@ Problem statement:
 
 specs:
 python-3.10
-backend-Fastapi
+backend-Fastapi-orm sqlalchemy Sqlite
 frotend-react+ujs
